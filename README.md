@@ -82,17 +82,9 @@
 <div align="center">
 
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=justhoadoan&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=justhoadoan&langs_count=4)
-
-  
-
-
   
 
   <br>
-
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com?user=justhoadoan&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
-</a>
 
 </div>
 
